@@ -1,7 +1,7 @@
 ## Relevant personal projects
 ### TriviArr
 It is a general knowledge quiz app, developed with **Flutter**, **Java**, **Spring Framework** and **JavaScript**. Available as a **native app for Android**, **iOS**, **Windows**, **Linux** and **macOS**, as well as a **web** version accessible through https://triviarr-yahya.web.app/, it offers a seamless and optimized experience on each platform. The app covers multiple categories, such as history, geography, art and sports, and incorporates various functionalities:
-</br>🔐 **Security and authentication**: login with Email, password and Google account, password reset and secure logout.
+</br>🔐 **Security and authentication**: Login with Email, password and Google account, password reset and secure logout.
 </br>🎯 **Progression and gameplay**: Level advancement and unlocking, second chances on failed questions and input validation.
 </br>❓ **Gameplay experience**: Question presentation with answer options, immediate correction and detailed results display.
 </br>🎨 **Design and interface**: Modern and intuitive interface, responsive design adaptable to different devices and support for dark mode.
