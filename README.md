@@ -69,5 +69,5 @@ It is a general knowledge quiz app, developed with **Flutter**, **Java**, **Spri
 </td></tr></table>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borwe" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouredev" align="center" /></div>  
 <br/>  
